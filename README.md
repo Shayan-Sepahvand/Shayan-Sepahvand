@@ -37,7 +37,7 @@ I enjoy working on challenging robotics projects involving aerial manipulation, 
 | **Robust Vision-based Control of a Quadrotor** | **Image-to-joint IK estimation of a cooperative continuum arm** |
 | ------------------------------------------------ | ------------------------------- |
 | <div align="center">
-<img src="./output2.gif" width="400"/> </div> | <img src="./CCR_Demo_Short.gif" width="400"/> </div> |
+<img src="./output2.gif" width="400"/> </div> | <img src="./CCR_Demo_Short.gif" width="200"/> </div> |
 | **Visual Servoing for Continuum Robots** | **Dual-Arm Robotic Manipulation** |
 | <img src="./assets/visual_servoing.gif" width="300"/> | <img src="./assets/dual_arm.gif" width="200"/> |
 
