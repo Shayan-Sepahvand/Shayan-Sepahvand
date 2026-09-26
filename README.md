@@ -34,7 +34,7 @@ My research focuses on **aerial manipulation, continuum robotics, visual servoin
 
 I enjoy working on challenging robotics projects involving aerial manipulation, continuum robots, perception, and control.
 
-| **Robust Vision-based Control of a Quadrotor** | **Image-to-joint inverse kinematics estimation of a cooperative continuum arm** |
+| **Robust Vision-based Control of a Quadrotor** | **Image-to-joint IK estimation of a cooperative continuum arm** |
 | ------------------------------------------------ | ------------------------------- |
 | <div align="center">
 <img src="./output2.gif" width="400"/> </div> | <img src="./assets/vision_force.gif" width="300"/> |
