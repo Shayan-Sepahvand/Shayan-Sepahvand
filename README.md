@@ -39,7 +39,7 @@ I enjoy working on challenging robotics projects involving aerial manipulation, 
 | <div align="center">
 <img src="./output2.gif" width="400"/> </div> | <img src="./CCR_Demo_Short.gif" width="200"/> </div> |
 | **Vision-based Landing Framework** | **Dual-Arm Robotic Manipulation** |
-| <img src="./output.gif" width="400"/> | <img src="./assets/dual_arm.gif" width="200"/> |
+| <img src="./output.gif" width="400"/> | <img src="./output3.gif" width="200"/> |
 
 ---
 
