@@ -65,7 +65,7 @@ You can find more information about my publications and research here:
 
 - 🎓 [**Google Scholar**](https://scholar.google.com/citations?user=rj90IiIAAAAJ&hl=en)
 - 🔬 **ResearchGate:** [Add your ResearchGate link]
-- 🆔 **ORCID:** [Add your ORCID link]
+- 🆔 [**ORCID:**](https://orcid.org/0000-0001-7023-3326)
 - 💼 [**LinkedIn**](https://ca.linkedin.com/in/shayan-sepahvand-ba9977176) 
 - 🌐 **Personal Website:** [Add your website link]
 
