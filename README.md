@@ -63,7 +63,7 @@ My research has been published and presented in robotics, control, computer visi
 
 You can find more information about my publications and research here:
 
-- 🎓 **Google Scholar:** [Add your Google Scholar link]
+- 🎓 **Google Scholar:** [(https://scholar.google.com/citations?user=rj90IiIAAAAJ&hl=en)]
 - 🔬 **ResearchGate:** [Add your ResearchGate link]
 - 🆔 **ORCID:** [Add your ORCID link]
 - 💼 **LinkedIn:** [Add your LinkedIn link]
