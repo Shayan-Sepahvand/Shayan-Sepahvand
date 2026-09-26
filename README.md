@@ -37,7 +37,7 @@ I enjoy working on challenging robotics projects involving aerial manipulation, 
 | **Tendon-Driven Aerial Continuum Manipulation** | **Hybrid Vision/Force Control** |
 | ------------------------------------------------ | ------------------------------- |
 | <div align="center">
-<img src="./output2.gif" width="600"/> </div> | <img src="./assets/vision_force.gif" width="300"/> |
+<img src="./output2.gif" width="400"/> </div> | <img src="./assets/vision_force.gif" width="300"/> |
 | **Visual Servoing for Continuum Robots** | **Dual-Arm Robotic Manipulation** |
 | <img src="./assets/visual_servoing.gif" width="300"/> | <img src="./assets/dual_arm.gif" width="300"/> |
 
