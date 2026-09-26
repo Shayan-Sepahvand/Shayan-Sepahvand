@@ -79,7 +79,7 @@ I am always interested in discussions and collaborations related to:
 
 ---
 
-![Shayan Sepahvand's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
+![Shayan Sepahvand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shayan_Sepahvand&show_icons=true&theme=transparent)
 
 <!--
 Replace YOUR_GITHUB_USERNAME with your GitHub username.
